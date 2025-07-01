@@ -1,8 +1,10 @@
 # Hello there! I'm Jakub 
 
-🚀 Currently Computer Engineering student at Opole Univeristy Of Technology, and dedicated Solidity developer, I'm passionate about crafting highly secure and reliable smart contracts that power the decentralized future and help become web3 more secure place. 
+👨🏼‍💻Currently Computer Engineering student at Opole Univeristy Of Technology
 
-🔒 With a deep focus on security best practices, I'm committed to writing code that is not only functional but also resilient against vulnerabilities and exploits.🛡️
+🚀 Dedicated Solidity developer, I'm passionate about crafting highly secure and reliable smart contracts that power the decentralized future and help become web3 more secure place. 
+
+🛡️ With a deep focus on security best practices, I'm committed to writing code that is not only functional but also resilient against vulnerabilities and exploits.
 
 ## 💻 Tech Stack:
 
